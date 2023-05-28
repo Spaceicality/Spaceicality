@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Nomnom!
+
+## I am a small developer that likes to use Java and Python. I've been learning JS lately too.
+## I post occasionally on my [Twitter](https://twitter.com/NomnomPlays/) as well. Feel free to follow me there!
+## You can also find my social links on my [Personal Website](https://nomnomplays.github.io)
 
 <!--
 **NomnomPlays/NomnomPlays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
