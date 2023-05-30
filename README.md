@@ -9,7 +9,7 @@ My pronouns are "he/him"<br>
 I've designed almost all of the css over on my [Personal Website](https://nomnomplays.github.io)<br>
 
 ### Where can you reach me?
-You can reach me via [Twitter](https://twitter.com/NomnomPlays/) DMs.My DMs will always be open.
+You can reach me via [Twitter](https://twitter.com/NomnomPlays/) DMs. My DMs will always be open.
 You can also reach me on Discord Nomnom#3681
 
 <!--
