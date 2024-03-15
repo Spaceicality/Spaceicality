@@ -1,4 +1,4 @@
-## Hi there, I'm Nomnom!
+## Hi there, I'm Spaceicality!
 
 ### How about a little information about myself?
 I am a small developer that likes to use Java and Python. I've been learning JS lately too.<br>
@@ -6,10 +6,10 @@ I am 17 years old, as of 5/30/23<br>
 My pronouns are "he/him"<br>
 
 ### Here are some things I've worked on
-I've designed almost all of the css over on my [Personal Website](https://nomnomplays.github.io)<br>
+I've designed almost all of the css over on my [Personal Website](https://spaceicality.github.io)<br>
 
 ### Where can you reach me?
-You can reach me via [Twitter](https://twitter.com/NomnomPlays/) DMs. My DMs will always be open.
+You can reach me via [Twitter](https://twitter.com/Spaceicality/) DMs. My DMs will always be open.
 You can also reach me on Discord Nomnom#3681
 
 <!--
