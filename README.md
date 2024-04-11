@@ -9,7 +9,7 @@ My pronouns are "he/him"<br>
 I've designed almost all of the css over on my [Personal Website](https://spaceicality.github.io)<br>
 
 ### Where can you reach me?
-You can reach me via my socials at [Linktree](https://linktr.ee/Spaceicality/). My DMs on Twitter will always be open.
+You can reach me via my socials at [Linktree](https://linktr.ee/Spaceicality/). My DMs on Twitter will always be open. <br />
 You can also reach me on Discord @spaceicality
 
 <!--
