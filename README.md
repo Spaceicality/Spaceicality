@@ -1,8 +1,8 @@
-## Hi there, I'm Spaceicality!
+## Hi there, I'm Nolan!
 
 ### How about a little information about myself?
-I am a small developer that likes to use Java and Python. I've been learning JS lately too.<br>
-I am 18 years old, as of 4/3/24<br>
+I am a small developer that likes to use Java and Python. I've been learning JS and C++ lately too.<br>
+I am 19 years old<br>
 My pronouns are "he/him"<br>
 
 ### Here are some things I've worked on
