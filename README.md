@@ -10,7 +10,7 @@ I've designed almost all of the css over on my [Personal Website](https://spacei
 
 ### Where can you reach me?
 You can reach me via my socials at [Linktree](https://linktr.ee/Spaceicality/). My DMs on Bluesky will always be open. <br />
-You can also reach me on Discord @spaceicality
+You can also reach me on Discord @spaceicality <br />
 You can email me at [contact@nolananderson.dev](mailto:contact@nolananderson.dev)
 
 <!--
